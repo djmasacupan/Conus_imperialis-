@@ -1,0 +1,44 @@
+Supplementary Figure 2. IMP4 Conopeptide precursors identical in different cone snail species.
+
+C. ebraeus
+DAZ86271.1      MCCIPVFFILLLLIPSAPSILAQPTTKGDVALASSYDDAKRTLQRLSIEYSCCPRIVGCC
+Cimp4_109       MCCIPVFFILLLLIPSAPSILAQPTTKGDVALASSYDDAKRTLQRLSIEYSCCPRIVGCC
+                ************************************************************
+
+DAZ86271.1      VIP
+Cimp4_109       VIP
+                ***
+
+C. litteratus
+C7DQX6.1        MMFRLTSVGCILLVIAFLNLVGLTNACTSEGYSCSSDSNCCKNVCCWNVCESHCRHPGKR
+Cimp4_028       -MFRLTSVGCILLVIAFLNLVGLTNACTSEGYSCSSDSNCCKNVCCWNVCESHCRHPGKR
+                 ***********************************************************
+
+C7DQX6.1        TRLQGFFKHRR
+Cimp4_028       TRLQGFFKHRR
+                ***********
+
+C. magus
+QFQ61216.1      MGGRFVVTALIAMTLLSFVLARGHDRPNRWSLKILPYYFTFPRFGRRSYNFGHWNIRHAV
+Cimp4_045       MGGRFVVTALIAMTLLSFVLARGHDRPNRWSLKILPYYFTFPRFGRRSYNFGHWNIRHAV
+                ************************************************************
+
+QFQ61216.1      DTRPKGTGASGRQ
+Cimp4_045       DTRPKGTGASGRQ
+                *************
+
+QFQ61104.1      MYCLPVFLILLLLISSAPSAPPQPRNKDRVHLVSLLDNQKQILQRDWNGCCAKKAGCCSW
+Cimp4_107       MYCLPVFLILLLLISSAPSAPPQPRNKDRVHLVSLLDNQKQILQRDWNGCCAKKAGCCSW
+                ************************************************************
+
+QFQ61104.1      GK
+Cimp4_107       GK
+                **
+
+QFQ61116.1      MCCIPVFFILLLLIPSAPSILAQPTTKGDVALASSYDDAKRTLQRLSKYPWCCTAIVSCC
+Cimp4_112       MCCIPVFFILLLLIPSAPSILAQPTTKGDVALASSYDDAKRTLQRLSKYPWCCTAIVSCC
+                ************************************************************
+
+QFQ61116.1      FIP
+Cimp4_112       FIP
+                ***
